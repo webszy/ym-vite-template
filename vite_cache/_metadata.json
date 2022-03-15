@@ -1,0 +1,21 @@
+{
+  "hash": "9ec0ec73",
+  "browserHash": "9fca60dc",
+  "optimized": {
+    "vue": {
+      "file": "D:/Work/41tiktokLine/tiktok_baseline/vite_cache/vue.js",
+      "src": "D:/Work/41tiktokLine/tiktok_baseline/node_modules/.pnpm/vue@3.2.31/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "D:/Work/41tiktokLine/tiktok_baseline/vite_cache/vue-router.js",
+      "src": "D:/Work/41tiktokLine/tiktok_baseline/node_modules/.pnpm/vue-router@4.0.14_vue@3.2.31/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "pinia": {
+      "file": "D:/Work/41tiktokLine/tiktok_baseline/vite_cache/pinia.js",
+      "src": "D:/Work/41tiktokLine/tiktok_baseline/node_modules/.pnpm/pinia@2.0.12_typescript@4.6.2+vue@3.2.31/node_modules/pinia/dist/pinia.esm-browser.js",
+      "needsInterop": false
+    }
+  }
+}
